@@ -29,7 +29,7 @@ Construo sistemas web completos, do banco de dados à interface: lojas virtuais,
 Plataforma integrada para uma empresa de engenharia: departamento pessoal e ponto, contratos e obras, suprimentos, financeiro, jurídico e aprovações. Monorepo com API, web e app mobile. Trabalho em equipe, com **260+ commits** meus.
 `Node.js` `Express` `PostgreSQL` `Prisma` `Next.js` `React Native` `TypeScript`
 
-### 🛍️ [Travvis — Loja virtual](https://github.com/Daavi007/Travvis)
+### 🛍️ [Travvis — Loja virtual](https://github.com/Daavi007/Travvis) · [ver loja no ar](https://travvis.basttox07.workers.dev/)
 E-commerce completo com catálogo, carrinho, checkout com **PIX (QR Code)** e **Mercado Pago**, fechamento de pedido pelo WhatsApp e painel administrativo com login. Hospedado na Cloudflare (Workers + KV).
 `Next.js` `React` `TypeScript` `Tailwind` `Cloudflare Workers`
 
