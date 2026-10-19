@@ -32,3 +32,7 @@ Plataforma integrada para uma empresa de engenharia: departamento pessoal e pont
 ### 🛍️ [Travvis — Loja virtual](https://github.com/Daavi007/Travvis)
 E-commerce completo com catálogo, carrinho, checkout com **PIX (QR Code)** e **Mercado Pago**, fechamento de pedido pelo WhatsApp e painel administrativo com login. Hospedado na Cloudflare (Workers + KV).
 `Next.js` `React` `TypeScript` `Tailwind` `Cloudflare Workers`
+
+### 🦷 [Sistema Dentista — Gestão de consultório](https://github.com/Daavi007/sistema-dentista-gestao)
+Sistema para consultório odontológico: login por perfil (administrador e dentista), agenda diária e semanal, confirmação de consulta por link, prontuário com **odontograma**, controle financeiro e **backup automático** do banco.
+`React` `Node.js` `Express` `MySQL` `JWT`
